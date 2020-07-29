@@ -1,10 +1,9 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "hash": "f45e7e6d7889ac9cca09bc2aa3ac509e",
     "content-hash": "e914b171ddf1e99dce9728b0a4f7bd7f",
     "packages": [
         {
@@ -65,7 +64,7 @@
                 "minifier",
                 "minify"
             ],
-            "time": "2018-04-18 08:50:35"
+            "time": "2018-04-18T08:50:35+00:00"
         },
         {
             "name": "matthiasmullie/path-converter",
@@ -114,7 +113,7 @@
                 "paths",
                 "relative"
             ],
-            "time": "2018-02-02 11:30:10"
+            "time": "2018-02-02T11:30:10+00:00"
         },
         {
             "name": "o2system/cache",
@@ -166,7 +165,7 @@
                 "php",
                 "utilities"
             ],
-            "time": "2018-06-08 16:14:58"
+            "time": "2018-06-08T16:14:58+00:00"
         },
         {
             "name": "o2system/curl",
@@ -218,7 +217,7 @@
                 "php",
                 "utilities"
             ],
-            "time": "2018-06-08 16:15:51"
+            "time": "2018-06-08T16:15:51+00:00"
         },
         {
             "name": "o2system/database",
@@ -270,7 +269,7 @@
                 "php",
                 "utilities"
             ],
-            "time": "2018-06-08 16:19:26"
+            "time": "2018-06-08T16:19:26+00:00"
         },
         {
             "name": "o2system/email",
@@ -324,7 +323,7 @@
                 "php",
                 "utilities"
             ],
-            "time": "2018-06-08 16:20:16"
+            "time": "2018-06-08T16:20:16+00:00"
         },
         {
             "name": "o2system/filesystem",
@@ -376,7 +375,7 @@
                 "php",
                 "utilities"
             ],
-            "time": "2018-06-08 16:20:58"
+            "time": "2018-06-08T16:20:58+00:00"
         },
         {
             "name": "o2system/framework",
@@ -441,7 +440,7 @@
                 "php",
                 "utilities"
             ],
-            "time": "2018-06-09 02:45:09"
+            "time": "2018-06-09T02:45:09+00:00"
         },
         {
             "name": "o2system/gear",
@@ -495,7 +494,7 @@
                 "php",
                 "utilities"
             ],
-            "time": "2018-06-08 16:24:17"
+            "time": "2018-06-08T16:24:17+00:00"
         },
         {
             "name": "o2system/html",
@@ -547,7 +546,7 @@
                 "php",
                 "utilities"
             ],
-            "time": "2018-06-08 16:25:08"
+            "time": "2018-06-08T16:25:08+00:00"
         },
         {
             "name": "o2system/image",
@@ -600,7 +599,7 @@
                 "php",
                 "utilities"
             ],
-            "time": "2018-06-08 16:40:29"
+            "time": "2018-06-08T16:40:29+00:00"
         },
         {
             "name": "o2system/kernel",
@@ -661,7 +660,7 @@
                 "php",
                 "singleton"
             ],
-            "time": "2018-06-08 16:41:31"
+            "time": "2018-06-08T16:41:31+00:00"
         },
         {
             "name": "o2system/parser",
@@ -709,7 +708,7 @@
                 "php",
                 "utilities"
             ],
-            "time": "2018-06-08 16:42:28"
+            "time": "2018-06-08T16:42:28+00:00"
         },
         {
             "name": "o2system/psr",
@@ -761,7 +760,7 @@
                 "php",
                 "utilities"
             ],
-            "time": "2018-06-08 16:43:16"
+            "time": "2018-06-08T16:43:16+00:00"
         },
         {
             "name": "o2system/security",
@@ -810,7 +809,7 @@
                 "php",
                 "utilities"
             ],
-            "time": "2018-06-08 16:43:59"
+            "time": "2018-06-08T16:43:59+00:00"
         },
         {
             "name": "o2system/session",
@@ -862,7 +861,7 @@
                 "php",
                 "session"
             ],
-            "time": "2018-06-08 16:44:39"
+            "time": "2018-06-08T16:44:39+00:00"
         },
         {
             "name": "o2system/spl",
@@ -913,20 +912,20 @@
                 "php",
                 "utilities"
             ],
-            "time": "2018-06-08 16:45:23"
+            "time": "2018-06-08T16:45:23+00:00"
         },
         {
             "name": "phpmailer/phpmailer",
-            "version": "v6.0.5",
+            "version": "v6.1.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPMailer/PHPMailer.git",
-                "reference": "cb3ea134d4d3729e7857737d5f320cce9caf4d32"
+                "reference": "2c2370ba3df7034f9eb7b8f387c97b52b2ba5ad0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPMailer/PHPMailer/zipball/cb3ea134d4d3729e7857737d5f320cce9caf4d32",
-                "reference": "cb3ea134d4d3729e7857737d5f320cce9caf4d32",
+                "url": "https://api.github.com/repos/PHPMailer/PHPMailer/zipball/2c2370ba3df7034f9eb7b8f387c97b52b2ba5ad0",
+                "reference": "2c2370ba3df7034f9eb7b8f387c97b52b2ba5ad0",
                 "shasum": ""
             },
             "require": {
@@ -935,13 +934,9 @@
                 "php": ">=5.5.0"
             },
             "require-dev": {
-                "doctrine/annotations": "1.2.*",
+                "doctrine/annotations": "^1.2",
                 "friendsofphp/php-cs-fixer": "^2.2",
-                "phpdocumentor/phpdocumentor": "2.*",
-                "phpunit/phpunit": "^4.8 || ^5.7",
-                "zendframework/zend-eventmanager": "3.0.*",
-                "zendframework/zend-i18n": "2.7.3",
-                "zendframework/zend-serializer": "2.7.*"
+                "phpunit/phpunit": "^4.8 || ^5.7"
             },
             "suggest": {
                 "ext-mbstring": "Needed to send email in multibyte encoding charset",
@@ -959,16 +954,16 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "LGPL-2.1"
+                "LGPL-2.1-only"
             ],
             "authors": [
                 {
-                    "name": "Jim Jagielski",
-                    "email": "jimjag@gmail.com"
-                },
-                {
                     "name": "Marcus Bointon",
                     "email": "phpmailer@synchromedia.co.uk"
+                },
+                {
+                    "name": "Jim Jagielski",
+                    "email": "jimjag@gmail.com"
                 },
                 {
                     "name": "Andy Prevost",
@@ -979,7 +974,13 @@
                 }
             ],
             "description": "PHPMailer is a full-featured email creation and transfer class for PHP",
-            "time": "2018-03-27 13:49:45"
+            "funding": [
+                {
+                    "url": "https://github.com/synchro",
+                    "type": "github"
+                }
+            ],
+            "time": "2020-07-14T18:50:27+00:00"
         },
         {
             "name": "ps/image-optimizer",
@@ -1028,7 +1029,7 @@
                 "optimization",
                 "optipng"
             ],
-            "time": "2018-04-11 21:27:34"
+            "time": "2018-04-11T21:27:34+00:00"
         },
         {
             "name": "psr/log",
@@ -1075,7 +1076,7 @@
                 "psr",
                 "psr-3"
             ],
-            "time": "2016-10-10 12:19:37"
+            "time": "2016-10-10T12:19:37+00:00"
         },
         {
             "name": "symfony/css-selector",
@@ -1128,7 +1129,7 @@
             ],
             "description": "Symfony CssSelector Component",
             "homepage": "https://symfony.com",
-            "time": "2018-05-30 07:26:09"
+            "time": "2018-05-30T07:26:09+00:00"
         },
         {
             "name": "symfony/options-resolver",
@@ -1182,7 +1183,7 @@
                 "configuration",
                 "options"
             ],
-            "time": "2018-05-30 07:26:09"
+            "time": "2018-05-30T07:26:09+00:00"
         },
         {
             "name": "symfony/process",
@@ -1231,7 +1232,7 @@
             ],
             "description": "Symfony Process Component",
             "homepage": "https://symfony.com",
-            "time": "2018-05-30 07:26:09"
+            "time": "2018-05-30T07:26:09+00:00"
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",
@@ -1278,7 +1279,7 @@
             ],
             "description": "CssToInlineStyles is a class that enables you to convert HTML-pages/files into HTML-pages/files with inline styles. This is very useful when you're sending emails.",
             "homepage": "https://github.com/tijsverkoyen/CssToInlineStyles",
-            "time": "2017-11-27 11:13:29"
+            "time": "2017-11-27T11:13:29+00:00"
         }
     ],
     "packages-dev": [],
@@ -1290,5 +1291,6 @@
     "platform": {
         "php": ">=5.6.4"
     },
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
 }
